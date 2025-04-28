@@ -22,7 +22,7 @@ public class Main {
         double saldoActual; // Variable para almacenar el saldo actual
 
         // Inicializar la cuenta con datos predefinidos
-        cuenta1 = new CCuenta("Antonio López", "1000-2365-85-1230456789", 2500, 0);
+        cuenta1 = new CCuenta("Luisa Rentoumis", "1000-2365-85-1230456789", 2500, 0);
 
         // Consultar el saldo actual
         saldoActual = cuenta1.estado();
